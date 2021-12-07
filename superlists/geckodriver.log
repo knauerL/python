@@ -1,0 +1,46 @@
+1638917234798	geckodriver	INFO	Listening on 127.0.0.1:60307
+1638917237880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60308" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileHSgt0p"
+1638917238558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileHSgt0p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60308/devtools/browser/463a80b5-98ad-454d-9b7f-79f6d8c10f2d
+1638917241430	Marionette	INFO	Listening on port 60313
+1638917241600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638917248637	Marionette	INFO	Stopped listening on port 60313
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638917268007	geckodriver	INFO	Listening on 127.0.0.1:60374
+1638917271089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60375" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile6Amu20"
+1638917271449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile6Amu20\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60375/devtools/browser/d99cb681-262a-4299-8603-76e996a003a8
+1638917273708	Marionette	INFO	Listening on port 60380
+1638917273780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638917276812	Marionette	INFO	Stopped listening on port 60380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638917311820	geckodriver	INFO	Listening on 127.0.0.1:60448
+1638917314890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60449" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile7ZR5Fb"
+1638917315241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile7ZR5Fb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60449/devtools/browser/632bf0d7-950a-4808-921c-ec94dab8d5b0
+1638917317717	Marionette	INFO	Listening on port 60454
+1638917318104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638917323086	Marionette	INFO	Stopped listening on port 60454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638918068242	geckodriver	INFO	Listening on 127.0.0.1:56222
+1638918071296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56223" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile77dnat"
+1638918071617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile77dnat\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56223/devtools/browser/a73f47b4-41ef-4d0c-8ef5-cf833c610941
+1638918073752	Marionette	INFO	Listening on port 56228
+1638918073979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638918074060	Marionette	INFO	Stopped listening on port 56228
+console.error: services.settings: 
+  main/query-stripping Signature failed  Error: Shutdown, aborting read-only worker requests.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
