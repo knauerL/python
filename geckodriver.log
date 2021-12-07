@@ -1,0 +1,21 @@
+1638903989227	geckodriver	INFO	Listening on 127.0.0.1:60187
+1638903992312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60188" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile3OV2QU"
+1638903993364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile3OV2QU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60188/devtools/browser/95f8db36-e58f-4159-a2cf-cbf772f724fc
+1638903997143	Marionette	INFO	Listening on port 60193
+1638903997669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638904013096	Marionette	INFO	Stopped listening on port 60193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638912228067	geckodriver	INFO	Listening on 127.0.0.1:61958
+1638912231123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61959" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilenq8bqJ"
+1638912231761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilenq8bqJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61959/devtools/browser/880fa820-027c-444b-a876-6cc4cc47be4d
+1638912234760	Marionette	INFO	Listening on port 61964
+1638912234865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638912262656	Marionette	INFO	Stopped listening on port 61964
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
