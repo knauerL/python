@@ -44,3 +44,23 @@ console.error: services.settings:
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1638922617199	geckodriver	INFO	Listening on 127.0.0.1:63899
+1638922620274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63900" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilerxxi2u"
+1638922620780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilerxxi2u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63900/devtools/browser/8dd0dbe5-e0e8-4a2b-871c-fbb125379a23
+1638922623589	Marionette	INFO	Listening on port 63905
+1638922623993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638922624152	Marionette	INFO	Stopped listening on port 63905
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638922850368	geckodriver	INFO	Listening on 127.0.0.1:63981
+1638922853451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63982" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile2givph"
+1638922853805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofile2givph\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63982/devtools/browser/69eb3a11-e300-4960-9512-d52c6cc188e2
+1638922856211	Marionette	INFO	Listening on port 63988
+1638922856658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638922859837	Marionette	INFO	Stopped listening on port 63988
