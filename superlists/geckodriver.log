@@ -64,3 +64,13 @@ DevTools listening on ws://localhost:63982/devtools/browser/69eb3a11-e300-4960-9
 1638922856211	Marionette	INFO	Listening on port 63988
 1638922856658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1638922859837	Marionette	INFO	Stopped listening on port 63988
+1638924144598	geckodriver	INFO	Listening on 127.0.0.1:59896
+1638924147664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59897" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileSJWVLO"
+1638924147985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileSJWVLO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59897/devtools/browser/de78efd5-b2ad-4502-a973-e5b314f1a8d5
+1638924149974	Marionette	INFO	Listening on port 59902
+1638924150348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638924150559	Marionette	INFO	Stopped listening on port 59902
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 714: Error: Connection closed before committing the transaction.
