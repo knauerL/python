@@ -74,3 +74,80 @@ DevTools listening on ws://localhost:59897/devtools/browser/de78efd5-b2ad-4502-a
 1638924150559	Marionette	INFO	Stopped listening on port 59902
 console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 714: Error: Connection closed before committing the transaction.
+1639514779206	geckodriver	INFO	Listening on 127.0.0.1:50097
+1639514782292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50098" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileMEMsMU"
+1639514783227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileMEMsMU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50098/devtools/browser/3476d3c2-de31-4d38-a92d-4a8bb8ef9401
+1639514786458	Marionette	INFO	Listening on port 50104
+1639514786507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639514786802	Marionette	INFO	Stopped listening on port 50104
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639514950498	geckodriver	INFO	Listening on 127.0.0.1:50174
+1639514953584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50175" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilec4eiQW"
+1639514954057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilec4eiQW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50175/devtools/browser/d2a859dd-5c6e-490f-84f1-4fa6f32c4495
+1639514956849	Marionette	INFO	Listening on port 50180
+1639514957289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639514957486	Marionette	INFO	Stopped listening on port 50180
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 714: Error: Connection closed before committing the transaction.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639515103686	geckodriver	INFO	Listening on 127.0.0.1:59076
+1639515106768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59077" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilePTpmie"
+1639515107197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilePTpmie\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59077/devtools/browser/d7bc1e90-fb03-466e-af25-d235cf6b2410
+1639515110048	Marionette	INFO	Listening on port 59083
+1639515110479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639515110781	Marionette	INFO	Stopped listening on port 59083
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 117))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 714: Error: Connection closed before committing the transaction.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639515178744	geckodriver	INFO	Listening on 127.0.0.1:59133
+1639515181830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59134" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilekOGX4M"
+1639515182216	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofilekOGX4M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59134/devtools/browser/34d41cd2-5722-4779-a909-013d89a4fe53
+1639515184919	Marionette	INFO	Listening on port 59140
+1639515185022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639515185302	Marionette	INFO	Stopped listening on port 59140
+[Parent 7284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+1639515307553	geckodriver	INFO	Listening on 127.0.0.1:57766
+1639515310640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57767" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileu7swGp"
+1639515311045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileu7swGp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57767/devtools/browser/4f0a642c-2d8c-49a5-8b82-68e8041ad988
+1639515313752	Marionette	INFO	Listening on port 57772
+1639515313853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1639515315288	Marionette	INFO	Stopped listening on port 57772
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 117))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639515458027	geckodriver	INFO	Listening on 127.0.0.1:57831
+1639515461118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57832" "-no-remote" "-profile" "C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileQbiBP6"
+1639515461610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sydst\\AppData\\Local\\Temp\\rust_mozprofileQbiBP6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57832/devtools/browser/d9441b42-9ff9-42f4-ae1b-33a36ee7b774
+1639515464292	Marionette	INFO	Listening on port 57837
+1639515464346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1639515465646	Marionette	INFO	Stopped listening on port 57837
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
