@@ -138,5 +138,6 @@ class NewVisitorTest(LiveServerTestCase):
             512,
             delta=10
         )
+
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
